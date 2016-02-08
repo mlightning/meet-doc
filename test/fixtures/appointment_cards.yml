@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  doctorid: MyString
+  doctortoken: MyString
+  image1: MyString
+  image2: MyString
+  image3: MyString
+  patientid: MyString
+  patienttoken: MyString
+  problemdesc: MyText
+  problemsummary: MyString
+
+two:
+  doctorid: MyString
+  doctortoken: MyString
+  image1: MyString
+  image2: MyString
+  image3: MyString
+  patientid: MyString
+  patienttoken: MyString
+  problemdesc: MyText
+  problemsummary: MyString

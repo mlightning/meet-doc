@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  date: 2014-08-06 06:29:39
+  doctorid: MyString
+  schedule: MyString
+
+two:
+  date: 2014-08-06 06:29:39
+  doctorid: MyString
+  schedule: MyString
